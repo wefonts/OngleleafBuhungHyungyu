@@ -1,1 +1,16 @@
-# OngleleafBuhungHyungyu
+<pre>
+@font-face {
+    font-family: "OngleleafBuhungHyungyu";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungHyungyu/OngleleafBuhungHyungyu.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungHyungyu/OngleleafBuhungHyungyu.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungHyungyu/OngleleafBuhungHyungyu.ttf") format("truetype");
+    font-display: swap;
+}
+
+.OngleleafBuhungHyungyu {
+    font-family: "OngleleafBuhungHyungyu";
+}
+  
+</pre>
